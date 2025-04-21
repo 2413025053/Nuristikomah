@@ -1,1 +1,145 @@
-# 2413025053
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Grafika Komputer - Nur Istikomah</title>
+  <style>
+    html {
+      scroll-behavior: smooth;
+    }
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #fdf6e3; /* cream */
+      margin: 0;
+      padding: 0;
+      color: #5c4033; /* brown */
+    }
+    header {
+      background-color: #e6d3b3;
+      color: #5c4033;
+      padding: 20px;
+      text-align: center;
+      border-bottom: 2px solid #d2b48c;
+    }
+    nav ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      background-color: #d2b48c;
+      overflow: hidden;
+      display: flex;
+      justify-content: center;
+    }
+    nav li {
+      margin: 0;
+    }
+    nav li a {
+      display: block;
+      color: white;
+      padding: 14px 20px;
+      text-decoration: none;
+    }
+    nav li a:hover {
+      background-color: #b8860b;
+    }
+    section {
+      padding: 40px 20px;
+    }
+    section h2 {
+      color: #8b5e3c;
+    }
+    .card {
+      background-color: #fffaf0;
+      padding: 15px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(150, 100, 50, 0.1);
+      margin-bottom: 20px;
+      border-left: 6px solid #deb887;
+    }
+    a {
+      color: #8b5e3c;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    footer {
+      background-color: #e6d3b3;
+      color: #5c4033;
+      text-align: center;
+      padding: 15px;
+      border-top: 2px solid #d2b48c;
+    }
+    .profil-foto {
+      width: 150px;
+      border-radius: 10px;
+      margin-bottom: 15px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Grafika Komputer - Nur Istikomah</h1>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="#beranda">Beranda</a></li>
+      <li><a href="#profil">Profil</a></li>
+      <li><a href="#tentang">Tentang</a></li>
+    </ul>
+  </nav>
+
+  <!-- BERANDA -->
+  <section id="beranda">
+    <h2>Beranda</h2>
+
+    <div class="card">
+      <strong>Tugas 1</strong><br>
+      <a href="https://drive.google.com/file/d/1EVh_8K1GvfN8Q270GUkIn752dWde8QWh/view?usp=sharing">Laporan</a><br>
+      <a href="https://youtu.be/Bmwxh4HqlZw?si=2sPDsRkpwqlD2u-U">Video</a>
+    </div>
+
+    <div class="card">
+      <strong>Tugas 2</strong><br>
+      <a href="https://drive.google.com/file/d/1UP-mqDBRVthRX1HD1QvbuRLghDEiTzVl/view?usp=sharing">Laporan</a><br>
+      <a href="https://youtu.be/j8KKgHpY5MQ?si=QSw-TsF7ovO47A0X">Video</a>
+    </div>
+
+    <div class="card">
+      <strong>Tugas 3</strong><br>
+      <a href="https://drive.google.com/file/d/1VpWISEsoNCvWxY_FQ8VCI_LIz3n9rPsa/view?usp=sharing">Laporan</a><br>
+      <a href="https://youtu.be/gw51S8o3K0M?si=m0lkDnZKt3otkKJl">Video</a>
+    </div>
+
+<div class="card">
+      <strong>Tugas 4</strong><br>
+      <a href="#">Laporan</a><br>
+      <a href="#">Video</a>
+    </div>
+  </section>
+
+  <!-- PROFIL -->
+  <section id="profil">
+    <h2>Profil</h2>
+    <div class="card">
+      <img src="istii.jpg" alt="Foto Nur Istikomah" class="profil-foto">
+      <p>Halo! Saya <strong>Nur Istikomah</strong>, mahasiswa Program Studi Pendidikan Teknologi Informasi. Saya tertarik pada dunia Grafika Komputer dan sedang mempelajarinya melalui berbagai proyek dan tugas kuliah.</p>
+    </div>
+  </section>
+
+  <!-- TENTANG -->
+  <section id="tentang">
+    <h2>Tentang</h2>
+    <div class="card">
+      <p>Website ini dibuat sebagai bagian dari tugas mata kuliah Grafika Komputer. Di dalamnya terdapat kumpulan hasil tugas, kode program, dan dokumentasi video dari setiap proyek yang dikerjakan oleh Nur Istikomah.</p>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Nur Istikomah. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
