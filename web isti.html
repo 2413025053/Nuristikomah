@@ -115,8 +115,8 @@
 
 <div class="card">
       <strong>Tugas 4</strong><br>
-      <a href="#">Laporan</a><br>
-      <a href="#">Video</a>
+      <a href="https://drive.google.com/file/d/18y4rn9BK_MHXMl67VNCDpLTJly5YT1-Z/view?usp=sharing">Laporan</a><br>
+      <a href="https://youtu.be/iL5x0OZPkB4?si=mS9AArA-HVTToBkd">Video</a>
     </div>
   </section>
 
