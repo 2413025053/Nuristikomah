@@ -118,6 +118,32 @@
       <a href="https://drive.google.com/file/d/18y4rn9BK_MHXMl67VNCDpLTJly5YT1-Z/view?usp=sharing">Laporan</a><br>
       <a href="https://youtu.be/iL5x0OZPkB4?si=mS9AArA-HVTToBkd">Video</a>
     </div>
+
+    <div class="card">
+      <strong>Quiz Persamaan Bentuk Hati</strong><br>
+      <a href="https://drive.google.com/file/d/10vf66bkVT68m6zJkkSsYeozJj-7pf77O/view?usp=sharing">Laporan</a><br>
+      <a href="https://youtu.be/Mb6CBae2hB8?si=QCgk1uhzldJpzxCU">Video</a>
+    </div>
+
+    <div class="card">
+      <strong>Quiz Persamaan Transformasi 2D</strong><br>
+      <a href="https://drive.google.com/file/d/1HKCnYFXco6gS6o7izMXVLuUO9FirWeGP/view?usp=sharing">Laporan</a><br>
+      <a href="https://drive.google.com/file/d/1UDyXwIxE3SMekVEqUucqwoE57u-PTyTv/view?usp=sharing">Video</a>
+    </div>
+
+    <div class="card">
+      <strong>Quiz Clipping Cohen Sutherland</strong><br>
+      <a href="https://drive.google.com/file/d/1dG8vWn6b_unALtqHWkwgEBtQg-V5kRg2/view?usp=sharing">Laporan</a><br>
+      <a href="https://youtu.be/YFcL7FQQVNs?si=CI-MrSREgdmY-RLM">Video</a>
+    </div>
+
+     <div class="card">
+      <strong>Quiz Clipping Polygon</strong><br>
+      <a href="https://drive.google.com/file/d/1kKloztOef1kN4sI5nFEOHxohgBApXWLd/view?usp=sharing">Laporan</a><br>
+      <a href="https://youtu.be/QE1jJB9KwaQ?si=7PZ_GQbGYQ7E2QWr">Video</a>
+    </div>
+
+    
   </section>
 
   <!-- PROFIL -->
